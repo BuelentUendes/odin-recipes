@@ -4,10 +4,11 @@
 
 body {
     font-size: 16px;
+    background-color: #FFF8E3;
+    color: black;
 }
 
 h2  {
-    color: black;
-    background-color: goldenrod;
+    background-color: #EEE0C9;
     text-align: left;
 }
